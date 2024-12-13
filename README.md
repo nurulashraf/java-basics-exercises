@@ -1,4 +1,4 @@
-# ur-fop-jav-ex1
+# UniRazak Fundamental of Programming Java - Exercise 1
 
 Welcome to the **ur-fop-jav-ex1** repository! This project is a collection of Java exercises aimed at helping beginners understand the fundamentals of programming. It is an excellent resource for students or anyone looking to strengthen their Java programming skills.
 
@@ -9,8 +9,9 @@ Welcome to the **ur-fop-jav-ex1** repository! This project is a collection of Ja
 3. [Structure](#structure)
 4. [Prerequisites](#prerequisites)
 5. [How to Use](#how-to-use)
-6. [Contribution Guidelines](#contribution-guidelines)
-7. [License](#license)
+6. [Questions PDF](#questions-pdf)
+7. [Contribution Guidelines](#contribution-guidelines)
+8. [License](#license)
 
 ---
 
@@ -88,6 +89,12 @@ To work with this repository, ensure the following are set up:
    ```
 
 5. Use the `bin` folder to directly run the compiled `.class` files if needed.
+
+---
+
+## Questions PDF
+
+The repository also includes a PDF file named `Questions.pdf`, which provides the requirements and descriptions for each exercise. This document serves as a guide to understand what each program is supposed to achieve. Refer to this file to get a clear idea of the objectives and expected outputs for each task.
 
 ---
 
