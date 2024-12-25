@@ -1,6 +1,6 @@
 # Java Basics Exercises
 
-This repository contains a series of exercises designed to help beginners grasp the fundamentals of Java programming. The exercises cover essential topics such as data types, control structures, loops, methods, and object-oriented programming principles. These solutions are part of a university assignment focused on applying fundamental Java programming concepts.
+This repository contains a series of exercises designed to help beginners grasp the fundamentals of Java programming. The exercises cover essential topics such as data types, control structures, loops, methods, and object-oriented programming principles. These solutions are part of a university exercise focused on applying fundamental Java programming concepts.
 
 ## Repository Structure
 
