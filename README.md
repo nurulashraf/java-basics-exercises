@@ -26,4 +26,4 @@ Contributions are welcome. If you have suggestions for improvements or additiona
 
 ## License
 
-This project is open-source and available under the MIT License. For more details, refer to the LICENSE file in the repository. 
+This project is open-source and available under the [MIT License](LICENSE). For more details, refer to the LICENSE file in the repository. 
